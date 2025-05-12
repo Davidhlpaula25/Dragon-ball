@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/character/character.ts","./src/character/charactercard.ts","./src/components/characterstable.tsx","./src/planets/planetstable.tsx","./src/planets/planets.ts","./src/service/characterservice.ts","./src/service/planetaservice.ts"],"errors":true,"version":"5.7.3"}
