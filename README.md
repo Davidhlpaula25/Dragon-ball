@@ -77,10 +77,5 @@ A imagem foi construída com duas etapas:
 1. **Build (Node 18 Alpine)**: Compila o projeto com `vite build`
 2. **Produção (NGINX)**: Serve a aplicação estática via `/usr/share/nginx/html`
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
----
 
 Feito  por [DavidhlpaulaDev](https://github.com/davidhlpaula25)
