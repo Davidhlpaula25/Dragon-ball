@@ -1,10 +1,5 @@
-# 🐉 App Dragon Ball Next
 
-Aplicação web feita com **React + TypeScript + Vite** que consome a **Dragon Ball API** para exibir personagens e planetas do universo. A interface foi construída com **PrimeReact** e o projeto está preparado para produção com **Docker + NGINX**.
-
----
-
-## 🚀 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -15,9 +10,7 @@ Aplicação web feita com **React + TypeScript + Vite** que consome a **Dragon B
 - [Docker](https://www.docker.com/)
 - [NGINX](https://www.nginx.com/)
 
----
-
-## 📷 Demonstração
+# Demonstração
 
 ```bash
 Acesse: http://localhost:5173 (após rodar com Docker)
@@ -25,7 +18,7 @@ Acesse: http://localhost:5173 (após rodar com Docker)
 
 ---
 
-## ⚙️ Instalação Local
+# Instalação Local
 
 ```bash
 # Clone o repositório
@@ -43,19 +36,19 @@ npm run dev
 
 ---
 
-## 🐳 Docker
+# Docker
 
-### ✅ Build da imagem
+# Build da imagem
 ```bash
 docker build -t dragon-ball-app .
 ```
 
-### ✅ Execução da imagem
+# Execução da imagem
 ```bash
 docker run -d -p 5173:80 dragon-ball-app
 ```
 
-### 🌐 Acesse:
+#  Acesse:
 ```
 http://localhost:5173
 ```
